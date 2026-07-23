@@ -249,5 +249,5 @@ These adapters consist of a short section of waveguide with a probe transition c
 
 
 ## Conclusions:
-Thus,the experiment is studied and verified
+Thus,the experiment is studied and verified.
 
